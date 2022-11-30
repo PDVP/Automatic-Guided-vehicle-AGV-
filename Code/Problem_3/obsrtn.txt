@@ -1,0 +1,25 @@
+Right motor- M2
+1. m+  +
+   m-  - backward
+   need to change the polarity for my code.
+
+
+2. for speed nd direction check
+	For standard mode, dirpin = 0 meaning backward direction
+	low= 0 high speed =225 for pwm value
+3. for cpr check
+	The direction if the wheel is in forward direction from reference  the encoder values are negative( so need the change the Funct inteerupt fuction along with the polarity
+	Cpr= 33300 theortical manual observation at low speed, 
+	Encoderis working correctly for pwm vaue less than 100
+
+======================================================================================
+Left motor- M1
+1. m+  +
+   m-  - forward
+ 
+2. for speed nd direction check
+	For standard mode, dirpin = 0 meaning forward direction 
+	low= 0 high speed =225 for pwm value
+3. for cpr check
+	The direction if the wheel is in forward direction from reference  the encoder values are positive
+	Cpr= 33300 

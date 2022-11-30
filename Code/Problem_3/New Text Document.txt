@@ -1,0 +1,91 @@
+
+Pid control code for encoder dc motor
+==================================================================================================================================================================
+install arduino in pi
+cmd velivity
+
+
+
+
+ip links=
+https://www.youtube.com/watch?v=MOBSb6cA7kY
+https://www.youtube.com/watch?v=WFTBtUpN3L8
+https://www.youtube.com/watch?v=0QJmaV8c39w
+
+ROS Teleop Twist Robot Control==
+https://www.youtube.com/watch?v=YbYha7fHUVA
+
+https://yoraish.com/2021/09/08/a-full-autonomous-stack-a-tutorial-ros-raspberry-pi-arduino-slam/
+
+https://automaticaddison.com/how-to-control-a-robots-velocity-remotely-using-ros/
+
+
+Control of Mobile Robots==
+https://www.youtube.com/watch?v=XbXhA4k7Ur8
+
+Differential drive-
+https://www.youtube.com/watch?v=XG4cODYVbJk
+
+
+
+//**************************************************************
+1. speed and direction check 
+2. CPR check
+3. velocity rpm check
+4. differential drive pid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
